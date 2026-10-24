@@ -1,0 +1,9 @@
+K=100
+d_max=11.465113640
+lecture_sigma=0.810705960
+width_scale=3.0
+sigma_used=2.432117881
+variance_used=5.915197385
+learning_rate=0.2
+decay=1.0
+epochs=12

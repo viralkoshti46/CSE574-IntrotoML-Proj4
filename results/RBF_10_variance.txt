@@ -1,0 +1,4 @@
+K=10
+d_max=7.942494901
+sigma=d_max/sqrt(2*K)=1.775995851
+variance=sigma^2=3.154161263

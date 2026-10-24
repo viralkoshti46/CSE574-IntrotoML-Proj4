@@ -1,0 +1,4 @@
+Clusters: 500
+Random starts: 5
+Best run: 2
+Total distortion: 1346688.84719467
